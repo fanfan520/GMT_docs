@@ -23,7 +23,8 @@ Bash 基础
 	echo Hello world!
 
 	# 声明一个变量
-	# 注意：= 两边不能有空格！projection="X10c/10c"
+	# 注意：= 两边不能有空格！
+	projection="X10c/10c"
 	region="0/10/0/10"
 
 	# 在变量名前加上 $ 符号即可引用该变量的值
